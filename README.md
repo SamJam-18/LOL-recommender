@@ -60,7 +60,7 @@ Because of the computing power required to run these recommenders only 20,000 Su
 | Similar Champions played - 0.2|0.139|
 | Similar Class Types and Stats - 0.8|0.329|
 
-The Top Similar Recommender, where class types and stats were compared to make the similarity matrix were chosen as the best recommender.
+The Top Similar Recommender, where class types and stats were used to find similar users was chosen as the best recommender, even though the threshold similar champs played recoomender had a better score the threshold had to be so low the other recommender was better.
 
 
 ## Next Steps
